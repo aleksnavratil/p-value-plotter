@@ -1,2 +1,2 @@
-This code makes plots that show the difference between two proportions at various sample sizes and p-values.
-The plots are made with GGplot2 in R and are faceted.
+This code plots the p-values for the difference between two proportions with unknown variance as a function of sample size. The output is a grid plot (aka faceted plot) showing the p-values for several combinations of sample size and optimized and control group proportions.
+The plots are made with GGplot2 in R and lend themselves to a large monitor.
